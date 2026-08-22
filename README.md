@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0283-move-zeroes) |
 | [1563-stone-game-v](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1563-stone-game-v) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
