@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
