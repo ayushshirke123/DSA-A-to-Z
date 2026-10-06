@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
