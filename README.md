@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1021-remove-outermost-parentheses) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
