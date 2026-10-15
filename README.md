@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0053-maximum-subarray) |
 | [1563-stone-game-v](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1563-stone-game-v) |
 ## Game Theory
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
