@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
