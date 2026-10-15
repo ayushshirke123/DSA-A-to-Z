@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0344-reverse-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0301-remove-invalid-parentheses) |
+| [0344-reverse-string](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/1021-remove-outermost-parentheses) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushshirke123/DSA-A-to-Z/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
